@@ -25,4 +25,4 @@ FUTURE ENHANCEMTNS:
 1. Make DB Script's user and login creation parameterized
 2. Provide sample scripts as guide for New Projects
 
-Feel free to fork and extend.
+Feel free to fork and extend
